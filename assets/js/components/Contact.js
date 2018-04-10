@@ -6,7 +6,6 @@ class Contact extends Component{
     return(
       <div className="Cntact">
       <h1>Hello Contac us</h1>
-
         </div>
     )
   }
