@@ -1,0 +1,49 @@
+{
+  "name": "soaphub",
+  "version": "1.0.0",
+  "description": "Latest soap opera spoilers, news and exclusive updates for The Young and The Restless, Days of Our Lives, General Hospital and Bold &amp; The Beautiful.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uniqueshiv/phoenixhello.git"
+  },
+  "keywords": [
+    "Latest",
+    "soap",
+    "opera",
+    "spoilers",
+    "news",
+    "and",
+    "exclusive",
+    "updates",
+    "for",
+    "The",
+    "Young",
+    "and",
+    "The",
+    "Restless",
+    "Days",
+    "of",
+    "Our",
+    "Lives",
+    "General",
+    "Hospital",
+    "and",
+    "Bold",
+    "&amp;",
+    "The",
+    "Beautiful."
+  ],
+  "author": "shiva chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uniqueshiv/phoenixhello/issues"
+  },
+  "homepage": "https://github.com/uniqueshiv/phoenixhello#readme"
+}
